@@ -1,0 +1,1 @@
+find /srv/example/foo/bar -type f -name "*.csv" -exec basename {} .csv ';'
