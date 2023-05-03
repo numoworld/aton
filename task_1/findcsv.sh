@@ -1,4 +1,4 @@
-#! /usr/bin/bash
+#! /bin/bash
 
 echo -e "enter directory in which to search for .csv files:"
 
