@@ -1,0 +1,13 @@
+No;groupname;member
+1;Domain Admins;domainadm1
+2;Domain Admins;domainadm2
+3;Domain Admins;domainadm3
+4;Domain Admins;domainadm4
+5;ServerAdmins;servadm1
+6;ServerAdmins;servadm2
+7;ServerAdmins;servadm3
+8;Local Admins;localadm1
+9;Local Admins;localadm2
+10;Local Admins;localadm3
+11;Local Admins;localadm4
+12;Super Admins;superadm1

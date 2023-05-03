@@ -1,0 +1,7 @@
+No;ip;groupname
+1;172.17.1.1;ServerAdmins
+2;172.17.1.1;Domain Admins
+3;172.17.1.1;Super Admins
+4;172.17.1.2;Local Admins
+5;172.17.1.2;Domain Admins
+6;172.17.1.3;Super Admins

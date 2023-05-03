@@ -1,0 +1,18 @@
+No;ip;groupname;member
+1;172.17.1.1;Domain Admins;domainadm1
+2;172.17.1.1;Domain Admins;domainadm2
+3;172.17.1.1;Domain Admins;domainadm3
+4;172.17.1.1;Domain Admins;domainadm4
+5;172.17.1.2;Domain Admins;domainadm1
+6;172.17.1.2;Domain Admins;domainadm2
+7;172.17.1.2;Domain Admins;domainadm3
+8;172.17.1.2;Domain Admins;domainadm4
+9;172.17.1.2;Local Admins;localadm1
+10;172.17.1.2;Local Admins;localadm2
+11;172.17.1.2;Local Admins;localadm3
+12;172.17.1.2;Local Admins;localadm4
+13;172.17.1.1;ServerAdmins;servadm1
+14;172.17.1.1;ServerAdmins;servadm2
+15;172.17.1.1;ServerAdmins;servadm3
+16;172.17.1.1;Super Admins;superadm1
+17;172.17.1.3;Super Admins;superadm1
