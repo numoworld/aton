@@ -1,5 +1,4 @@
 from argparse import ArgumentParser
-import csv
 
 def main():
     parser = ArgumentParser(description='CSV merger')
